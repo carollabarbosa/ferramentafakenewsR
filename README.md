@@ -2,7 +2,10 @@
 Ferramenta para Verificação de Notícias Falsas
 { projeto em construção}
 ***última atualização : 14 de outubro de 2022.
+======
+gh repo clone carollabarbosa/ferramentafakenewsR
 
+======
 # Sobre os Dados e API
 Nessa Ferramenta em construção, foi usado o modelo de API presente no : https://github.com/fake-news-api/fake_news_detection_api(Diretório de Vu Luong)
 Foram adequados os dados necessários e  a inclusão de um corpus autoral com :

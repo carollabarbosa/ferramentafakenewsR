@@ -20,6 +20,7 @@ Diretório do corpus:
    macro avg       0.85      0.85      0.85      1075
 weighted avg       0.85      0.85      0.85      1075
 
+
 Fontes : 
 Noticias Fontes que utilizei: CNN, G1, BBC, Daily News, Foreign Affair, Twitter**, Metrópoles, R7, AFP, Aos Fatos, E-Farsas, Fake.Br(Corpus Prof Tiago Pardo e Roney Lira USP).
 

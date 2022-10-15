@@ -6,7 +6,9 @@ Ferramenta para Verificação de Notícias Falsas
 # Sobre os Dados e API
 Nessa Ferramenta em construção, foi usado o modelo de API presente no : https://github.com/fake-news-api/fake_news_detection_api(Diretório de Vu Luong)
 Foram adequados os dados necessários e  a inclusão de um corpus autoral com :
+
 TRUE    1110
+
 FAKE    1040
 
 Diretório do corpus: 

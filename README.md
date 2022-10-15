@@ -2,6 +2,7 @@
 Ferramenta para Verificação de Notícias Falsas
 { projeto em construção}
 ***última atualização : 14 de outubro de 2022.
+
 ======
 gh repo clone carollabarbosa/ferramentafakenewsR
 

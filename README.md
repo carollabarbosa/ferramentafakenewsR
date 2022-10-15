@@ -17,6 +17,7 @@ Diretório do corpus:
         TRUE       0.89      0.82      0.86       590
 
     accuracy                           0.85      1075
+    
    macro avg       0.85      0.85      0.85      1075
 weighted avg       0.85      0.85      0.85      1075
 
